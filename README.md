@@ -16,7 +16,7 @@ Check out my articles on [Hashnode](https://aanshojha.hashnode.dev/) and [Dev.to
 ## 📚 Education:
 Currently pursuing: B.Tech in CSE, Dr. APJ Abdul Kalam Technical University
 ## 📫 Get in Touch:
-LinkedIn: [Aansh-Ojha](https://www.linkedin.com/in/aansh-ojha/)
-Twitter: [@OjhaAansh](https://twitter.com/OjhaAansh) (I don't use Twitter much)
-Email: [1aanshojha@gmail.com](mailto:1aanshojha@gmail.com)
+#### LinkedIn: [Aansh-Ojha](https://www.linkedin.com/in/aansh-ojha/)
+#### Twitter: [@OjhaAansh](https://twitter.com/OjhaAansh) (I don't use Twitter much)
+#### Email: [1aanshojha@gmail.com](mailto:1aanshojha@gmail.com)
 Feel free to explore my repositories and projects. If you find anything interesting or if you'd like to collaborate, feel free to reach out. Happy coding! 😊
