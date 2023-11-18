@@ -26,5 +26,3 @@ Currently pursuing: B.Tech in CSE, Dr. APJ Abdul Kalam Technical University
 #### Email: [1aanshojha@gmail.com](mailto:1aanshojha@gmail.com)
 Feel free to explore my repositories and projects. If you find anything interesting or if you'd like to collaborate, feel free to reach out. \
 Happy coding! 😊
-
-<h1 style="background: linear-gradient(-45deg, #ee7752, #59046e, #2192bc, #23d5ab); background-size: 400% 400%; animation: gradient 10s ease infinite; -webkit-text-fill-color: transparent; -webkit-background-clip: text">Hello</h1>
