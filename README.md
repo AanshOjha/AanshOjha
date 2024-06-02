@@ -1,5 +1,5 @@
 # Hello, I'm Aansh Ojha! 👋
-I'm a first-year B.Tech student passionate about technology, programming, and web development. Welcome to my GitHub profile!
+A B.Tech student with hands-on experience in software development, cloud technologies and a passion for continuous learning. Welcome to my GitHub profile!
 
 ## 🔧 Skills & Tools:
 Languages: \
@@ -50,7 +50,7 @@ Currently pursuing: B.Tech in CSE, Dr. APJ Abdul Kalam Technical University
 
 ## 📫 Get in Touch:
 [![Linkedin Badge](https://img.shields.io/badge/-aansh--ojha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aansh-ojha/)](https://www.linkedin.com/in/aansh-ojha/) 
-[![Twitter Badge](https://img.shields.io/badge/-OjhaAansh-black?style=flat&logo=X&logoColor=white&link=https://twitter.com/OjhaAansh)](https://twitter.com/OjhaAansh)
+[![Twitter Badge](https://img.shields.io/badge/-AanshOjha-black?style=flat&logo=X&logoColor=white&link=https://twitter.com/AanshOjha)](https://twitter.com/AanshOjha)
 [![Mail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white&link=mailto:1aanshojha@gmail.com)](mailto:1aanshojha@gmail.com)
 
 Feel free to explore my repositories and projects. If you find anything interesting or if you'd like to collaborate, feel free to reach out. \
