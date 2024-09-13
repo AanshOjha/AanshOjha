@@ -11,6 +11,8 @@ Languages: \
 Front-End Development: \
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) 
+![LAMP Stack](https://img.shields.io/badge/-LAMP-0078D4?style=flat&logo=LAMP&logoColor=white)
 
 Back-End Development: \
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
@@ -22,6 +24,7 @@ DevOps and Cloud: \
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-0078D4?style=flat&logo=git&logoColor=white)
 
 Databases: \
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
