@@ -40,7 +40,7 @@ Other Technologies: \
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ_Idea-000000?style=flat&logo=intellijidea&logoColor=white) 
 
 ## 🚀 Projects:
-* Currently working on [PhotoVault](https://photovault.onrender.com, target=_blank)
+* Currently working on [PhotoVault](https://photovault.onrender.com)
 * SecureAuth Hub - An end-to-end User Management Platform
 * Electrometer Pro - API for electricity bill management
 
