@@ -1,178 +1,176 @@
 <div align="center">
 
-<img src="./assets/f1-banner-2.svg" width="100%" alt="Aansh Ojha — AI and backend engineering, F1-inspired telemetry banner"/>
+<img src="./assets/header.svg" alt="Aansh Ojha — AI Backend Engineer" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1100&color=E10600&center=true&vCenter=true&width=700&lines=AI+%26+Backend+Engineer;Building+systems%2C+not+just+ demos;Turning+latency+into+lower+latency;Currently+chasing+the+next+PR)](https://git.io/typing-svg)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=DB0A40&center=true&vCenter=true&width=760&height=40&lines=Turning+messy+data+into+clean+schemas.;Cutting+LLM+latency+by+52%25%2C+one+cache+hit+at+a+time.;Box+box%3A+pipeline+is+green.+Deploying+to+Azure.;Works+on+my+machine.+Also+on+yours%2C+thanks+to+Docker." alt="Typing animation"/>
+</a>
 
-<a href="https://aanshojha.github.io">Portfolio</a> ·
-<a href="https://github.com/AanshOjha">GitHub</a> ·
-<a href="https://linkedin.com/in/aansh-ojha">LinkedIn</a> ·
-<a href="https://leetcode.com/u/aanshojha">LeetCode</a> ·
-<a href="mailto:aansh.ojha@outlook.com">Email</a>
+<p>
+  <a href="https://www.linkedin.com/in/aansh-ojha"><img src="https://img.shields.io/badge/LinkedIn-0B1F4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1tcT59n6Jcg9sSo8KcQUq2SYF87ujzKuH/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-DB0A40?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://leetcode.com/u/aanshojha"><img src="https://img.shields.io/badge/LeetCode-14246B?style=for-the-badge&logo=leetcode&logoColor=FFC906" alt="LeetCode"/></a>
+  <a href="https://aanshojha.github.io"><img src="https://img.shields.io/badge/Portfolio-050A1E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-### `01 / DRIVER PROFILE`
+<!-- ───────────── RECRUITER FAST LANE ───────────── -->
+<div align="center">
 
-```text
-AANSH OJHA  //  AI & BACKEND ENGINEERING
-B.Tech CSE   //  AKTU, 2027
-FOCUS        //  AI systems · Backend · Developer tooling
+### 🏁 Pit Lane: the 60-second tour
+
+| Lap | Where | What you'll see |
+|:---:|:------|:----------------|
+| **1** | [Starting Grid ↓](#grid) | Four projects, two of them flagship |
+| **2** | [Telemetry ↓](#telemetry) | The stack, no fluff |
+| **3** | [Race Log ↓](#racelog) | Backend + AI work at SmartCard AI |
+| **4** | [Lap Times ↓](#laptimes) | Live GitHub + LeetCode stats |
+| **🏆** | [All repositories →](https://github.com/aanshojha?tab=repositories) | Full garage |
+
+</div>
+
+<br/>
+
+<a id="profile"></a>
+<img src="./assets/sec-profile.svg" width="100%" alt="01 · Driver Profile"/>
+
+```python
+class Aansh:
+    role      = "AI Backend Engineer"
+    based_on  = "FastAPI · Python · Azure"
+    obsessed  = ["RAG", "AI agents", "MCP", "ETL pipelines", "latency charts that go down"]
+    education = "B.Tech CSE, 2027 · GPA 8.1"
+    fuel      = "coffee + clean diffs"
+
+    def pit_strategy(self, problem):
+        return "cache it, measure it, then ship it"
 ```
 
-I build backend systems and AI-powered products — from multi-source data pipelines and LLM workflows to developer tools that make code reviews less painful.
+> 🏎️ I build backends that talk to LLMs, and make sure they answer fast and don't hallucinate their way into production.
+> Think of it as *engine tuning*, but the engine is a data pipeline and the fuel is tokens.
 
-Exploring the intersection of AI infrastructure, backend reliability, and useful product experiences.
+<br/>
 
-> 🏎️ My code doesn't have to win every race. It just needs to pass the checks before deployment.
+<a id="telemetry"></a>
+<img src="./assets/sec-telemetry.svg" width="100%" alt="02 · Telemetry"/>
 
----
+<div align="center">
 
-### `02 / SELECTED BUILDS`
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,js,react,vue,vite,bash,c&theme=dark" alt="languages and frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,docker,kubernetes,aws,azure,linux,git,githubactions&theme=dark" alt="infra and databases"/>
+
+<br/><br/>
+
+| 🧠 **AI / ML** | |
+|:--|:--|
+| **Models & SDKs** | OpenAI Responses API · Google Gemini · Transformers |
+| **Orchestration** | LangChain · LangGraph · AI Agents · MCP · A2A Protocol |
+| **Retrieval** | RAG · Vector Search · Qdrant · ChromaDB · pgvector |
+| **Ops & Evals** | LangSmith · OpenTelemetry · MLflow · LLM-as-a-Judge |
+
+| ☁️ **Cloud & Backend** | |
+|:--|:--|
+| **AWS** | Lambda · Bedrock · S3 · RDS · EKS |
+| **Azure** | Functions · App Service · Entra ID · Microsoft Foundry · Azure DevOps |
+| **Core CS** | DSA · OOP · Distributed Systems · System Design · Async & Multithreading |
+
+</div>
+
+<br/>
+
+<a id="grid"></a>
+<img src="./assets/sec-grid.svg" width="100%" alt="03 · Starting Grid"/>
+
+<div align="center">
+
+<a href="https://github.com/aanshojha/yggdrasil-ai-workspace">
+  <img src="./assets/card-yggdrasil.svg" width="100%" alt="P1 · Yggdrasil AI Workspace"/>
+</a>
+
+<sub>Hybrid semantic caching (embeddings + BM25), LLM-as-a-Judge evals on an hourly Azure Functions trigger, per-user memory, skill routing, GitHub MCP, streaming. Latency went from 18.39s to 8.74s. Pit stop completed.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/aanshojha/ai-pr-reviewer">
+  <img src="./assets/card-pr-reviewer.svg" width="100%" alt="P2 · AI PR Reviewer"/>
+</a>
+
+<sub>Parses the git diff, works out which lines are valid comment targets, and re-checks every AI suggestion against that set. No ghost line numbers. Drop-in GitHub Action template for any repo.</sub>
+
+<br/><br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### ◉ Yggdrasil AI Workspace
-`AI PLATFORM` `MULTI-TENANT` `RAG`
-
-Hybrid semantic cache + BM25 retrieval, conversation memory, modular skill routing, and automated LLM evaluation.
-
-**52% lower response latency · 40% less LLM cost**
-
-`FastAPI` `Redis` `PostgreSQL` `React` `MCP`
-
-[↗ Repository](https://github.com/AanshOjha)
-
+<td width="50%" align="center">
+  <a href="https://github.com/aanshojha/algo-trading-backtesting-platform"><img src="./assets/card-trading.svg" width="100%" alt="P3 · Algo Trading & Backtesting"/></a>
 </td>
-<td width="50%" valign="top">
-
-#### ◉ AI PR Reviewer
-`DEV TOOLING` `GITHUB ACTIONS`
-
-AI-powered pull request reviews with inline comments, merge-safety verdicts, and validated diff-line targeting.
-
-Built to catch the bugs. Not invent line numbers.
-
-`GitHub Actions` `Python` `Azure AI Foundry`
-
-[↗ Repository](https://github.com/AanshOjha)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ◉ Algorithmic Trading Platform
-`FULL STACK` `BACKTESTING`
-
-Strategy execution and backtesting with configurable indicators and interactive performance analytics.
-
-`FastAPI` `SQLite` `Vue` `Chart.js`
-
-[↗ Repository](https://github.com/AanshOjha)
-
-</td>
-<td width="50%" valign="top">
-
-#### ◉ URL Shortener
-`BACKEND` `CLOUD`
-
-Base62 short links, Redis caching, analytics, HTTPS, and IP-based rate limiting.
-
-`FastAPI` `PostgreSQL` `Redis` `Azure`
-
-[↗ Repository](https://github.com/AanshOjha)
-
+<td width="50%" align="center">
+  <a href="https://github.com/aanshojha/url-shortener"><img src="./assets/card-url.svg" width="100%" alt="P4 · URL Shortener"/></a>
 </td>
 </tr>
 </table>
 
----
+</div>
 
-### `03 / TECH STACK`
+<br/>
+
+<a id="racelog"></a>
+<img src="./assets/sec-racelog.svg" width="100%" alt="04 · Race Log"/>
+
+**🏎️ AI Backend Intern · SmartCard AI** &nbsp;·&nbsp; *Nov 2025 → Present · Remote*
+
+- 🔧 **Universal File-to-SQL ETL.** Infers schema on the fly and auto-creates normalized MySQL tables from SQL DBs, MongoDB, Snowflake, spreadsheets and PDFs. One unified REST API sits on top.
+- 🧩 **Modular connectors** for databases, files, images, audio, video and live Google Sheets, feeding a model that generates charts, heatmaps, scorecards and SQL cards from plain-English prompts.
+- 🚀 **24-hour refresh pipeline + CI/CD** with GitHub Actions deploying to Azure. Dashboards stay fresh without anyone pressing a button.
+
+**🎓 B.Tech, Computer Science & Engineering** &nbsp;·&nbsp; *2023 → 2027 · Dr. A.P.J. Abdul Kalam Technical University, Lucknow · GPA 8.1*
+
+<br/>
+
+<a id="laptimes"></a>
+<img src="./assets/sec-laptimes.svg" width="100%" alt="05 · Lap Times"/>
 
 <div align="center">
 
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=openai,python,pytorch&theme=dark" alt="AI and Python tools"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aanshojha&show_icons=true&hide_border=true&bg_color=060D24&title_color=DB0A40&icon_color=FFC906&text_color=C9D4F5&ring_color=DB0A40&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshojha&layout=compact&hide_border=true&bg_color=060D24&title_color=DB0A40&text_color=C9D4F5" alt="Top languages"/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=aanshojha&background=060D24&ring=DB0A40&fire=FFC906&currStreakLabel=FFFFFF&sideLabels=C9D4F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A97C4&stroke=1E2A5A&border=1E2A5A" alt="GitHub streak"/>
 
 <br/>
 
-**Backend / Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,js&theme=dark" alt="Backend and languages"/>
+<a href="https://leetcode.com/u/aanshojha">
+  <img width="98%" src="https://leetcard.jacoblin.cool/aanshojha?theme=dark&font=Karla&ext=heatmap&border=0&radius=12" alt="LeetCode stats"/>
+</a>
 
-<br/>
-
-**Cloud / Data / Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,postgres,redis,mysql,git,github&theme=dark" alt="Cloud and engineering tools"/>
+<sub>200+ problems solved. Time complexity is the only race where lower is faster.</sub>
 
 </div>
 
-<details>
-<summary><b>Full skill inventory</b> — expand if you want the technical details</summary>
+<br/>
 
-- **AI/ML:** OpenAI Response API, Gemini, LangChain, LangGraph, RAG, Vector Search, AI Agents, MCP, A2A, Context Engineering, AI Harness, OpenTelemetry, LangSmith, Transformers, ML fine-tuning/optimization, CNNs, RNNs, MLflow
-- **Languages:** Python (FastAPI, Pydantic), Java (Spring Boot), JavaScript, SQL, C, Bash
-- **Cloud & DevOps:** Docker, Kubernetes, AWS (Lambda, Bedrock, S3, RDS, EKS), Azure (Functions, App Service, Entra ID, Microsoft Foundry, Azure DevOps), Linux, Git, GitHub Actions
-- **Databases:** PostgreSQL, MySQL, Redis, Qdrant, ChromaDB, pgvector
-- **CS:** DSA, OOP, REST APIs, multithreading, asynchronous programming, distributed systems, database design, system design
-
-</details>
-
----
-
-### `04 / TELEMETRY`
+<a id="paddock"></a>
+<img src="./assets/sec-paddock.svg" width="100%" alt="06 · Paddock Pass"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AanshOjha&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=E10600&icon_color=E10600&text_color=9CA3AF" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanshOjha&layout=compact&hide_border=true&theme=transparent&title_color=E10600&text_color=9CA3AF" height="165" alt="Top languages"/>
+| | |
+|:-:|:-:|
+| 💼 [**LinkedIn**](https://www.linkedin.com/in/aansh-ojha) | 📄 [**Resume (PDF)**](https://drive.google.com/file/d/1tcT59n6Jcg9sSo8KcQUq2SYF87ujzKuH/view?usp=drive_link) |
+| 🧮 [**LeetCode**](https://leetcode.com/u/aanshojha) | 🌐 [**Portfolio**](https://aanshojha.github.io) |
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AanshOjha&hide_border=true&theme=transparent&ring=E10600&fire=E10600&currStreakLabel=E10600" width="70%" alt="GitHub contribution streak"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-</div>
-
----
-
-### `05 / TRACK ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AanshOjha&bg_color=00000000&color=9CA3AF&line=E10600&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-### `06 / OFF THE CLOCK`
-
-```text
-TEAM RADIO:
-"Can you make it faster?"
-
-ME:
-"Have you tried adding a cache?"
-```
-
-F1 fan. Story-game enjoyer. Probably debugging something that worked five minutes ago.
-
-<sub>Thanks for stopping by the garage. Feel free to explore the repos, open an issue, or say hello.</sub>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AanshOjha&style=flat&color=E10600&label=PROFILE+PIT+LANE+VISITS" alt="Profile views"/>
-
-**BUILD · SHIP · REPEAT**
+<sub>🏁 *"Simply lovely."* is what I say when CI goes green on the first push.</sub>
+<br/>
+<sub>Built with SVG, caffeine and a slightly unhealthy interest in F1</sub>
 
 </div>
