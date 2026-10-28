@@ -55,14 +55,18 @@
 
 ```python
 class Aansh:
-    role      = "AI Backend Engineer"
-    based_on  = "FastAPI · Python · Azure"
-    obsessed  = ["RAG", "AI agents", "MCP", "ETL pipelines", "latency charts that go down"]
+    role = "Software Engineer | AI Backend Engineer"
+    focus = [
+        "Scalable backend systems",
+        "AI-powered applications",
+        "Distributed systems",
+        "Performance and reliability"
+    ]
+    stack = "Python · FastAPI · SQL · LLMs · Cloud"
     education = "B.Tech CSE, 2027 · GPA 8.1"
-    fuel      = "coffee + clean diffs"
 
-    def pit_strategy(self, problem):
-        return "cache it, measure it, then ship it"
+    def engineering_principle(self, problem):
+        return "Understand the problem, design the system, measure the impact."
 ```
 
 > 🏎️ I build backends that talk to LLMs, and make sure they answer fast and don't hallucinate their way into production.
