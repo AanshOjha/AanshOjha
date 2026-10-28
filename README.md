@@ -138,15 +138,12 @@ class Aansh:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aanshojha&show_icons=true&hide_border=true&bg_color=060D24&title_color=DB0A40&icon_color=FFC906&text_color=C9D4F5&ring_color=DB0A40&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=aanshojha&show_icons=true&hide_border=true&bg_color=060D24&title_color=DB0A40&icon_color=FFC906&text_color=C9D4F5&ring_color=DB0A40&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshojha&layout=compact&hide_border=true&bg_color=060D24&title_color=DB0A40&text_color=C9D4F5" alt="Top languages"/>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=aanshojha&background=060D24&ring=DB0A40&fire=FFC906&currStreakLabel=FFFFFF&sideLabels=C9D4F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A97C4&stroke=1E2A5A&border=1E2A5A" alt="GitHub streak"/>
-
-<br/>
-
+<img height="220" src="https://streak-stats.demolab.com?user=aanshojha&background=060D24&ring=DB0A40&fire=FFC906&currStreakLabel=FFFFFF&sideLabels=C9D4F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A97C4&stroke=1E2A5A&border=1E2A5A" alt="GitHub streak"/>
 <a href="https://leetcode.com/u/aanshojha">
-  <img width="98%" src="https://leetcard.jacoblin.cool/aanshojha?theme=dark&font=Karla&ext=heatmap&border=0&radius=12" alt="LeetCode stats"/>
+  <img height="220" src="https://leetcard.jacoblin.cool/aanshojha?theme=dark&font=Karla&ext=heatmap&border=0&radius=12" alt="LeetCode stats"/>
 </a>
 
 <sub>200+ problems solved. Time complexity is the only race where lower is faster.</sub>
@@ -171,6 +168,6 @@ class Aansh:
 
 <sub>🏁 *"Simply lovely."* is what I say when CI goes green on the first push.</sub>
 <br/>
-<sub>Built with SVG, caffeine and a slightly unhealthy interest in F1</sub>
+<sub>Built with SVG, caffeine and a slightly unhealthy interest in F1.</sub>
 
 </div>
