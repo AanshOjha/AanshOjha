@@ -4,7 +4,7 @@
 <polygon points="92,8 100,8 80,56 72,56" fill="#FFC906"/>
 <text x="16" y="45" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" font-style="italic" fill="#fff">01</text>
 <text x="124" y="35" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="2">DRIVER PROFILE</text>
-<text x="126" y="53" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" fill="#8A97C4" letter-spacing="2">// who is behind the wheel</text>
+<text x="126" y="53" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" fill="#8A97C4" letter-spacing="2">// introduction &amp; highlights</text>
 <rect x="124" y="60" width="876" height="2" fill="url(#f)"/>
 <g fill="#DB0A40" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="900" font-style="italic" opacity=".9"><text x="930" y="40">»»»<animate attributeName="opacity" values=".2;1;.2" dur="1.4s" repeatCount="indefinite"/></text></g>
 </svg>

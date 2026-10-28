@@ -4,13 +4,23 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=DB0A40&center=true&vCenter=true&width=760&height=40&lines=Turning+messy+data+into+clean+schemas.;Cutting+LLM+latency+by+52%25%2C+one+cache+hit+at+a+time.;Box+box%3A+pipeline+is+green.+Deploying+to+Azure.;Works+on+my+machine.+Also+on+yours%2C+thanks+to+Docker." alt="Typing animation"/>
-</a>
+<p align="center">
+  <h1><strong>Software Engineer</strong></h1>
+  Building production-ready LLM applications, intelligent data pipelines, and scalable backend services with Python, FastAPI, and Azure.
+</p>
+<p>
+  ⚡ <strong>52% lower response latency</strong> — Yggdrasil AI Workspace
 
+  📉 <strong>40% lower LLM usage and cost</strong> — PR Reviewer
+
+  🧩 <strong>200+ LeetCode problems solved</strong>
+</p>
+
+<h1><strong>Contact & Other Profiles</strong></h1>
 <p>
   <a href="https://www.linkedin.com/in/aansh-ojha"><img src="https://img.shields.io/badge/LinkedIn-0B1F4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://drive.google.com/file/d/1tcT59n6Jcg9sSo8KcQUq2SYF87ujzKuH/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-DB0A40?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:aanshojha@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="https://drive.google.com/file/d/1tcT59n6Jcg9sSo8KcQUq2SYF87ujzKuH/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-DB0A40?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="https://leetcode.com/u/aanshojha"><img src="https://img.shields.io/badge/LeetCode-14246B?style=for-the-badge&logo=leetcode&logoColor=FFC906" alt="LeetCode"/></a>
   <a href="https://aanshojha.github.io"><img src="https://img.shields.io/badge/Portfolio-050A1E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 </p>
@@ -18,26 +28,30 @@
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
+<!-- <a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=DB0A40&center=true&vCenter=true&width=760&height=40&lines=Turning+messy+data+into+clean+schemas.;Cutting+LLM+latency+by+52%25%2C+one+cache+hit+at+a+time.;Box+box%3A+pipeline+is+green.+Deploying+to+Azure.;Works+on+my+machine.+Also+on+yours%2C+thanks+to+Docker." alt="Typing animation"/>
+</a> -->
 
 <!-- ───────────── RECRUITER FAST LANE ───────────── -->
 <div align="center">
 
 ### 🏁 Pit Lane: the 60-second tour
 
-| Lap | Where | What you'll see |
-|:---:|:------|:----------------|
-| **1** | [Starting Grid ↓](#grid) | Four projects, two of them flagship |
-| **2** | [Telemetry ↓](#telemetry) | The stack, no fluff |
-| **3** | [Race Log ↓](#racelog) | Backend + AI work at SmartCard AI |
-| **4** | [Lap Times ↓](#laptimes) | Live GitHub + LeetCode stats |
-| **🏆** | [All repositories →](https://github.com/aanshojha?tab=repositories) | Full garage |
+| Order | Section |
+|:---:|:--- |
+| **1** | [Introduction & Highlights](#profile) |
+| **2** | [Featured Projects](#grid) |
+| **3** | [Experience](#racelog) |
+| **4** | [Technical Skills](#telemetry) |
+| **5** | [Coding Profiles & Activity](#laptimes) |
+| **6** | [Contact & Résumé](#contact) |
 
 </div>
 
 <br/>
 
 <a id="profile"></a>
-<img src="./assets/sec-profile.svg" width="100%" alt="01 · Driver Profile"/>
+<img src="./assets/sec-profile.svg" width="100%" alt="01 · Driver Profile — Introduction & Highlights"/>
 
 ```python
 class Aansh:
@@ -56,36 +70,8 @@ class Aansh:
 
 <br/>
 
-<a id="telemetry"></a>
-<img src="./assets/sec-telemetry.svg" width="100%" alt="02 · Telemetry"/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,js,react,vue,vite,bash,c&theme=dark" alt="languages and frameworks"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,docker,kubernetes,aws,azure,linux,git,githubactions&theme=dark" alt="infra and databases"/>
-
-<br/><br/>
-
-| 🧠 **AI / ML** | |
-|:--|:--|
-| **Models & SDKs** | OpenAI Responses API · Google Gemini · Transformers |
-| **Orchestration** | LangChain · LangGraph · AI Agents · MCP · A2A Protocol |
-| **Retrieval** | RAG · Vector Search · Qdrant · ChromaDB · pgvector |
-| **Ops & Evals** | LangSmith · OpenTelemetry · MLflow · LLM-as-a-Judge |
-
-| ☁️ **Cloud & Backend** | |
-|:--|:--|
-| **AWS** | Lambda · Bedrock · S3 · RDS · EKS |
-| **Azure** | Functions · App Service · Entra ID · Microsoft Foundry · Azure DevOps |
-| **Core CS** | DSA · OOP · Distributed Systems · System Design · Async & Multithreading |
-
-</div>
-
-<br/>
-
-<a id="grid"></a>
-<img src="./assets/sec-grid.svg" width="100%" alt="03 · Starting Grid"/>
+<a id="grid"></a><a id="projects"></a>
+<img src="./assets/sec-grid.svg" width="100%" alt="02 · Starting Grid — Featured Projects"/>
 
 <div align="center">
 
@@ -120,8 +106,8 @@ class Aansh:
 
 <br/>
 
-<a id="racelog"></a>
-<img src="./assets/sec-racelog.svg" width="100%" alt="04 · Race Log"/>
+<a id="racelog"></a><a id="experience"></a>
+<img src="./assets/sec-racelog.svg" width="100%" alt="03 · Race Log — Experience"/>
 
 **🏎️ AI Backend Intern · SmartCard AI** &nbsp;·&nbsp; *Nov 2025 → Present · Remote*
 
@@ -133,18 +119,38 @@ class Aansh:
 
 <br/>
 
-<a id="laptimes"></a>
-<img src="./assets/sec-laptimes.svg" width="100%" alt="05 · Lap Times"/>
+<a id="telemetry"></a><a id="skills"></a>
+<img src="./assets/sec-telemetry.svg" width="100%" alt="04 · Telemetry — Technical Skills"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,js,docker,aws,azure,postgres,mysql,redis,git,githubactions&theme=dark" alt="languages and frameworks"/>
+
+<br/><br/>
+
+| Category | What to display |
+|:---|:---|
+| 🧠 **AI Engineering** | LLM APIs, RAG, agents, LangGraph, MCP, embeddings, evaluation |
+| ⚡ **Backend & Languages** | Python, FastAPI, Java, Spring Boot, JavaScript, SQL, asynchronous programming |
+| ☁️ **Data & Infrastructure** | PostgreSQL, MySQL, Redis, Docker, AWS, Azure, CI/CD |
+| 🏛️ **Engineering Fundamentals** | DSA, REST APIs, database design, distributed systems, system design |
+
+</div>
+
+<br/>
+
+<a id="laptimes"></a><a id="activity"></a>
+<img src="./assets/sec-laptimes.svg" width="100%" alt="05 · Lap Times — Coding Profiles & Activity"/>
 
 <div align="center">
 
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=aanshojha&show_icons=true&hide_border=true&bg_color=060D24&title_color=DB0A40&icon_color=FFC906&text_color=C9D4F5&ring_color=DB0A40&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanshojha&layout=compact&hide_border=true&bg_color=060D24&title_color=DB0A40&text_color=C9D4F5" alt="Top languages"/>
 
-<img height="220" src="https://streak-stats.demolab.com?user=aanshojha&background=060D24&ring=DB0A40&fire=FFC906&currStreakLabel=FFFFFF&sideLabels=C9D4F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A97C4&stroke=1E2A5A&border=1E2A5A" alt="GitHub streak"/>
 <a href="https://leetcode.com/u/aanshojha">
   <img height="220" src="https://leetcard.jacoblin.cool/aanshojha?theme=dark&font=Karla&ext=heatmap&border=0&radius=12" alt="LeetCode stats"/>
 </a>
+
+<br/>
 
 <sub>200+ problems solved. Time complexity is the only race where lower is faster.</sub>
 
@@ -152,15 +158,15 @@ class Aansh:
 
 <br/>
 
-<a id="paddock"></a>
-<img src="./assets/sec-paddock.svg" width="100%" alt="06 · Paddock Pass"/>
+<a id="contact"></a><a id="paddock"></a>
+<img src="./assets/sec-contact.svg" width="100%" alt="06 · Profiles & Contact — Contact & Résumé"/>
 
 <div align="center">
 
-| | |
-|:-:|:-:|
-| 💼 [**LinkedIn**](https://www.linkedin.com/in/aansh-ojha) | 📄 [**Resume (PDF)**](https://drive.google.com/file/d/1tcT59n6Jcg9sSo8KcQUq2SYF87ujzKuH/view?usp=drive_link) |
-| 🧮 [**LeetCode**](https://leetcode.com/u/aanshojha) | 🌐 [**Portfolio**](https://aanshojha.github.io) |
+| | | |
+|:---:|:---:|:---:|
+| 💼 [**LinkedIn**](https://www.linkedin.com/in/aansh-ojha) | 📄 [**Resume (PDF)**](https://drive.google.com/file/d/1tcT59n6Jcg9sSo8KcQUq2SYF87ujzKuH/view?usp=drive_link) | ✉️ [**Email**](mailto:aanshojha@outlook.com) |
+| 🧮 [**LeetCode**](https://leetcode.com/u/aanshojha) | 🌐 [**Portfolio**](https://aanshojha.github.io) | 🐙 [**GitHub**](https://github.com/aanshojha) |
 
 <br/>
 
