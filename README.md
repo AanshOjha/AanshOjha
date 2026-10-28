@@ -113,13 +113,14 @@ class Aansh:
 <a id="racelog"></a><a id="experience"></a>
 <img src="./assets/sec-racelog.svg" width="100%" alt="03 · Race Log — Experience"/>
 
-**🏎️ AI Backend Intern · SmartCard AI** &nbsp;·&nbsp; *Nov 2025 → Present · Remote*
+## **🏎️ AI Backend Intern · SmartCard AI** &nbsp;·&nbsp; *Nov 2025 → Present · Remote*
 
 - 🔧 **Universal File-to-SQL ETL.** Infers schema on the fly and auto-creates normalized MySQL tables from SQL DBs, MongoDB, Snowflake, spreadsheets and PDFs. One unified REST API sits on top.
 - 🧩 **Modular connectors** for databases, files, images, audio, video and live Google Sheets, feeding a model that generates charts, heatmaps, scorecards and SQL cards from plain-English prompts.
 - 🚀 **24-hour refresh pipeline + CI/CD** with GitHub Actions deploying to Azure. Dashboards stay fresh without anyone pressing a button.
 
-**🎓 B.Tech, Computer Science & Engineering** &nbsp;·&nbsp; *2023 → 2027 · Dr. A.P.J. Abdul Kalam Technical University, Lucknow · GPA 8.1*
+## **🎓 B.Tech, Computer Science & Engineering** &nbsp;·&nbsp; *2023 → 2027* 
+- Dr. A.P.J. Abdul Kalam Technical University, Lucknow · GPA 8.1
 
 <br/>
 
