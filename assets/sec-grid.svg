@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64">
+<defs><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#DB0A40"/><stop offset="1" stop-color="#DB0A40" stop-opacity="0"/></linearGradient></defs>
+<polygon points="0,8 86,8 66,56 0,56" fill="#DB0A40"/>
+<polygon points="92,8 100,8 80,56 72,56" fill="#FFC906"/>
+<text x="16" y="45" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" font-style="italic" fill="#fff">03</text>
+<text x="124" y="35" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="2">STARTING GRID</text>
+<text x="126" y="53" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" fill="#8A97C4" letter-spacing="2">// projects, qualified by position</text>
+<rect x="124" y="60" width="876" height="2" fill="url(#f)"/>
+<g fill="#DB0A40" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="900" font-style="italic" opacity=".9"><text x="930" y="40">»»»<animate attributeName="opacity" values=".2;1;.2" dur="1.4s" repeatCount="indefinite"/></text></g>
+</svg>
