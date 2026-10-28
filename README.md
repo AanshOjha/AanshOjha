@@ -155,6 +155,8 @@ class Aansh:
   <img height="220" src="https://leetcard.jacoblin.cool/aanshojha?theme=dark&font=Karla&ext=heatmap&border=0&radius=12" alt="LeetCode stats"/>
 </a>
 
+![](https://komarev.com/ghpvc/?username=aanshojha&color=red&style=for-the-badge)
+
 <br/>
 
 <sub>200+ problems solved. Time complexity is the only race where lower is faster.</sub>
