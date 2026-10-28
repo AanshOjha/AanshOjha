@@ -55,10 +55,9 @@
   <g stroke="#C9D4F5" stroke-width="2"><line x1="328" y1="64" x2="328" y2="80"/><line x1="320" y1="72" x2="336" y2="72"/>
     <animateTransform attributeName="transform" type="rotate" from="0 328 72" to="360 328 72" dur="0.5s" repeatCount="indefinite"/></g>
 </g></g>
- <text x="50" y="62" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="14" fill="#DB0A40" letter-spacing="4" font-weight="700">▌ SESSION: RACE  ·  CIRCUIT: GITHUB  ·  TYRES: SOFT</text>
  <text x="48" y="140" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="900" font-style="italic" fill="#FFFFFF" letter-spacing="-1">AANSH</text>
  <text x="48" y="205" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="900" font-style="italic" fill="none" stroke="#DB0A40" stroke-width="2.2" letter-spacing="-1">OJHA</text>
- <text x="52" y="232" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#C9D4F5" letter-spacing="1.5">AI Backend Engineer  //  Agents · RAG · ETL</text>
+ <text x="52" y="232" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#C9D4F5" letter-spacing="1.5">Software Engineer  //  Python · Agents · Evals</text>
 </g>
 <rect x="1" y="1" width="998" height="298" rx="18" fill="none" stroke="#1E2A5A" stroke-width="2"/>
 </svg>
