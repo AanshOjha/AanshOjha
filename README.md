@@ -19,7 +19,7 @@
 <h1><strong>Contact & Other Profiles</strong></h1>
 <p>
   <a href="https://www.linkedin.com/in/aansh-ojha"><img src="https://img.shields.io/badge/LinkedIn-0B1F4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aanshojha@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="mailto:aanshojha@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://drive.google.com/file/d/1tcT59n6Jcg9sSo8KcQUq2SYF87ujzKuH/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-DB0A40?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="https://leetcode.com/u/aanshojha"><img src="https://img.shields.io/badge/LeetCode-14246B?style=for-the-badge&logo=leetcode&logoColor=FFC906" alt="LeetCode"/></a>
   <a href="https://aanshojha.github.io"><img src="https://img.shields.io/badge/Portfolio-050A1E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
