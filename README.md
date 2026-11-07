@@ -11,9 +11,9 @@
 <p>
   ⚡ <strong>52% lower response latency</strong> — Yggdrasil AI Workspace
 
-  📉 <strong>40% lower LLM usage and cost</strong> — PR Reviewer
+  📉 <strong>40% lower LLM usage and cost</strong> — GitHub PR Reviewer
 
-  🧩 <strong>200+ LeetCode problems solved</strong>
+  🧩 <strong>210+ LeetCode problems solved</strong>
 </p>
 
 <h1><strong>Contact & Other Profiles</strong></h1>
@@ -51,11 +51,11 @@
 <br/>
 
 <a id="profile"></a>
-<img src="./assets/sec-profile.svg" width="100%" alt="01 · Driver Profile — Introduction & Highlights"/>
+<img src="./assets/sec-profile.svg" width="100%" alt="01 · Profile — Introduction & Highlights"/>
 
 ```python
 class Aansh:
-    role = "Software Engineer | AI Backend Engineer"
+    role = "Software Developer | AI Engineer"
     focus = [
         "Scalable backend systems",
         "AI-powered applications",
