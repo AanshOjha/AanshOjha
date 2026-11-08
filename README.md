@@ -159,7 +159,7 @@ class Aansh:
 
 <br/>
 
-<sub>200+ problems solved. Time complexity is the only race where lower is faster.</sub>
+<sub>210+ problems solved. Time complexity is the only race where lower is faster.</sub>
 
 </div>
 
@@ -178,9 +178,5 @@ class Aansh:
 <br/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
-
-<sub>🏁 *"Simply lovely."* is what I say when CI goes green on the first push.</sub>
-<br/>
-<sub>Built with SVG, caffeine and a slightly unhealthy interest in F1.</sub>
 
 </div>
