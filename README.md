@@ -133,7 +133,7 @@ class Aansh:
 
 <br/><br/>
 
-| Category | What to display |
+| Category | Tools and Skills |
 |:---|:---|
 | 🧠 **AI Engineering** | LLM APIs, RAG, agents, LangGraph, MCP, embeddings, evaluation |
 | ⚡ **Backend & Languages** | Python, FastAPI, Java, Spring Boot, JavaScript, SQL, asynchronous programming |
